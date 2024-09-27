@@ -1,4 +1,4 @@
-# Biomatter Machine Learning enzyme design assignment
+# Machine Learning enzyme design assignment
 
 I. The task, given data and files (all but amino acid encodings can be find in this repository):
 
