@@ -2,7 +2,7 @@
 
 I. The task.
 
-In short, the given dataset contains 2854 single-point mutants of Ube2i SUMO conjugase, with measured fitness scores. This and biophysical features were used from a give features.csv file. The goal was to using only 96 samples, train/fit a model which can predict fitness of the rest of the data set, using all information available. This also includes amino acid encodings and a Ube2i multiple sequence alignment (MSA). Model performance needs to be evaluated using Spearman's correlation.
+In short, the given dataset contains 2854 single-point mutants of Ube2i SUMO conjugase, with measured fitness scores. Additionally, 20 biophysical features were provided for each mutant. The goal was to using only 96 samples, train/fit a model which can predict fitness of the rest of the data set, using all information available. This also includes amino acid encodings and a Ube2i multiple sequence alignment (MSA). Model performance needs to be evaluated using Spearman's correlation.
 
 II. The solution, guide to navigating files.
 
